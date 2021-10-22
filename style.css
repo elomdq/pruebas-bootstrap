@@ -25,3 +25,15 @@
   .dropdown.no-arrow .dropdown-toggle::after {
     display: none;
   }
+
+  .navbar{
+     padding: 0.5rem 1rem ;
+  }
+
+  .dropdown-menu{
+    font-size: 1rem;
+  }
+
+  .dropdown-menu[data-bs-popper] {
+    margin-top: 1rem;
+  }
