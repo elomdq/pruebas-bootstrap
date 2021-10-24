@@ -45,3 +45,19 @@
       text-overflow: ellipsis;
       max-width: 400px;
   }
+
+  .input-group-lg > .btn {
+    /*padding: 0.5rem 1rem;*/
+    padding:8px 35px;
+    font-size: 1.25rem;
+    border-radius: 1.5rem;
+  }
+
+  .card {
+    border-radius: 0.35rem;
+  }
+
+  /*
+  .card .shadow-lg {
+    box-shadow: 0 0.45rem 3rem rgba(0, 0, 0, 0.175) !important;
+  }*/
